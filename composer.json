@@ -1,0 +1,17 @@
+{
+    "name": "spe-jogja/php-rabbitmq-helloworld",
+    "autoload": {
+        "psr-4": {
+            "SpeJogja\\PhpRabbitmqHelloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hanif",
+            "email": "hanif.hakim@spesolution.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=3.0"
+    }
+}
